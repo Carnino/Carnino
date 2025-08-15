@@ -29,11 +29,11 @@ desarrollo de sistemas.
 
 CodeGym Y Gearcode
 Co-Founder
-● Desarrollé y lancé dos plataformas SaaS: CodeGym para gestión de gimnasios y GearCode para centros
+- Desarrollé y lancé dos plataformas SaaS: CodeGym para gestión de gimnasios y GearCode para centros
 de atención vehicular, optimizando operaciones para diversos clientes.
-● Lideré el diseño técnico e implementación de ambas plataformas, utilizando tecnologías modernas para
+- Lideré el diseño técnico e implementación de ambas plataformas, utilizando tecnologías modernas para
 garantizar escalabilidad y mantenibilidad.
-● Gestioné relaciones con clientes de ambos proyectos, brindando soporte técnico y capacitación,
+- Gestioné relaciones con clientes de ambos proyectos, brindando soporte técnico y capacitación,
 logrando alta satisfacción del usuario. 
 
 
