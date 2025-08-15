@@ -52,6 +52,4 @@ logrando alta satisfacción del usuario.
 
 ---
 
-> “La tecnología es el arte de hacer posible lo imposible.”
-
 ¡Gracias por visitar mi perfil! 🚀
